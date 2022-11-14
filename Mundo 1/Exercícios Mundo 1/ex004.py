@@ -1,4 +1,4 @@
-# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações sobre ele
+# Exercício 004: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações sobre ele
 
 valor = input('Informe algo: ')
 print('O tipo primitivo é: ', type(valor))
